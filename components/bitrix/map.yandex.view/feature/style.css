@@ -1,0 +1,7 @@
+.placemark-res, .baloon-res{display: none}
+.placemark-custom{position: absolute;width: 150px;height: 30px;box-sizing: content-box;background-color: #0BA0F0;color: white;font-weight: 700;border-radius: 10px;padding: 5px}
+.placemark-custom::before{display: block;content:"";float: left;width: 35px;height: 31px;background: url("images/eye.png") 50% 50% no-repeat;background-size: contain}
+#placemark-vor-san-zal1,#placemark-vor-lust{right:0}
+.baloon-custom{position: absolute;z-index: 998;width: 350px;height: 450px;background-color: white;top: 25px;left: 15px;padding: 15px;}
+#baloon-content{position: relative}
+.placemark-custom.selected{border: 5px solid #527192;margin: -5px;}

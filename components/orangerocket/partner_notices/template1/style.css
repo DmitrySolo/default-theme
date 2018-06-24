@@ -1,0 +1,17 @@
+.noticeList {
+    max-width: 80%;
+line-height: 1.6}
+.noticeList__element {
+    padding-left: 35px;
+    border-left: 3px solid transparent;
+    margin-bottom: 20px; }
+.noticeList__element {
+    border-left-color: #46bb90; }
+.noticeList__noticeContent {
+    font-size: 18px; }
+.noticeList__publicTime {
+    font-size: 14px;
+    color: #555353; }
+.noticeList__elementHeader {
+    color: #13667f;
+    font-size:22px}

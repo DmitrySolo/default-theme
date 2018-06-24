@@ -1,0 +1,12 @@
+.bx_cart_block_f{
+    float: right;
+    padding-top: 10px;
+}
+.bx_cart_block_f a{
+    color: white;
+}
+.toBasket{
+    background-color: red;
+    padding: 5px;
+    border-radius:3px;
+}

@@ -1,0 +1,7 @@
+.not.breadcrumb__section.breadcrumb__section--points:hover{
+    background-color: unset;
+    color: #6f6c6c;
+}
+span.breadcrumb__section{
+    cursor: default;
+}
